@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 900px;
+    margin: 50px auto;
+}
+.content-holder{
+    height: 300px;
+    width: 300px;
+    box-shadow: 0 0 8px;
+    margin: auto;
+}
+.xo{
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    float: left;
+    border: 1px solid #eee;
+    background: cadetblue;
+    font-size: 44px;
+    color: white;
+    text-align: center;
+}
+
